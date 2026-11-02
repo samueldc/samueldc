@@ -8,7 +8,7 @@ My background includes implementing J2EE solutions using POJOs and design patter
 
 Most recently, I have focused on deploying open-source tools, serving as a SysAdmin, SRE, and Perl Programmer. I also bring hands-on experience in Data Engineering, including ETL processes and multidimensional modeling (OLAP).
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/samueldc">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueldc&show_icons=true&theme=radical" />-->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samueldc&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
